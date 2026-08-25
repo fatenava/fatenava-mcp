@@ -1,5 +1,7 @@
 # fatenava-mcp
 
+**English** | [繁體中文](./README.zh-Hant.md) | [简体中文](./README.zh-Hans.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md)
+
 **Cast BaZi, Zi Wei Dou Shu, and Western astrology natal charts from any MCP-capable AI agent.**
 
 One tool, three deterministic engines, zero setup: no account, no API key, nothing stored.
