@@ -1,0 +1,8 @@
+src/
+skills/
+tsconfig.json
+Dockerfile
+.mcpbignore
+.gitignore
+*.mcpb
+package-lock.json
