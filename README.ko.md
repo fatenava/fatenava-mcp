@@ -2,6 +2,8 @@
 
 [English](./README.md) | [繁體中文](./README.zh-Hant.md) | [简体中文](./README.zh-Hans.md) | [日本語](./README.ja.md) | **한국어**
 
+[![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp)
+
 **MCP를 지원하는 어떤 AI 에이전트에서든 사주(팔자)·자미두수·서양 점성술 출생 차트를 바로 뽑아 보세요.**
 
 하나의 도구, 세 가지 결정론적 엔진, 설정 제로: 계정 불필요, API 키 불필요, 어떤 데이터도 저장하지 않습니다.

@@ -2,6 +2,8 @@
 
 [English](./README.md) | **繁體中文** | [简体中文](./README.zh-Hans.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md)
 
+[![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp)
+
 **讓任何支援 MCP 的 AI Agent 直接排出八字、紫微斗數與西洋占星本命盤。**
 
 一個工具、三套確定性排盤引擎、零門檻：無需帳號、無需 API key、不儲存任何資料。

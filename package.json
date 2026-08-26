@@ -1,6 +1,6 @@
 {
   "name": "fatenava-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP server for casting BaZi (Four Pillars), Zi Wei Dou Shu, and Western astrology natal charts — deterministic, free, no account required. Powered by FateNava.",
   "type": "module",
   "bin": {
@@ -54,5 +54,6 @@
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
-  }
+  },
+  "mcpName": "io.github.fatenava/fatenava-mcp"
 }
