@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.fatenava/fatenava-mcp",
+  "description": "Cast BaZi, Zi Wei Dou Shu, and Western astrology natal charts - deterministic, free, no account.",
+  "repository": {
+    "url": "https://github.com/fatenava/fatenava-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://fatenava.com",
+  "version": "0.1.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "fatenava-mcp",
+      "version": "0.1.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
