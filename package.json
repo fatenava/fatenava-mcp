@@ -9,7 +9,7 @@
   "main": "dist/index.js",
   "files": [
     "dist",
-    "README.md",
+    "README*.md",
     "LICENSE"
   ],
   "scripts": {
@@ -19,6 +19,9 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "mcp",
