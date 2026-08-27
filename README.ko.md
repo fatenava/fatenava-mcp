@@ -3,6 +3,7 @@
 [English](./README.md) | [繁體中文](./README.zh-Hant.md) | [简体中文](./README.zh-Hans.md) | [日本語](./README.ja.md) | **한국어**
 
 [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp)
+[![smithery badge](https://smithery.ai/badge/fatenava/fatenava-mcp)](https://smithery.ai/servers/fatenava/fatenava-mcp)
 
 **MCP를 지원하는 어떤 AI 에이전트에서든 사주(팔자)·자미두수·서양 점성술 출생 차트를 바로 뽑아 보세요.**
 

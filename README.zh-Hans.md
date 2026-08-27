@@ -3,6 +3,7 @@
 [English](./README.md) | [繁體中文](./README.zh-Hant.md) | **简体中文** | [日本語](./README.ja.md) | [한국어](./README.ko.md)
 
 [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp)
+[![smithery badge](https://smithery.ai/badge/fatenava/fatenava-mcp)](https://smithery.ai/servers/fatenava/fatenava-mcp)
 
 **让任何支持 MCP 的 AI Agent 直接排出八字、紫微斗数与西洋占星本命盘。**
 

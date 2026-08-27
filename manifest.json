@@ -57,5 +57,6 @@
       "required": false,
       "default": "https://fatenava.com"
     }
-  }
+  },
+  "icon": "assets/logo-400-2.png"
 }

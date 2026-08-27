@@ -3,6 +3,7 @@
 [English](./README.md) | [繁體中文](./README.zh-Hant.md) | [简体中文](./README.zh-Hans.md) | **日本語** | [한국어](./README.ko.md)
 
 [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp)
+[![smithery badge](https://smithery.ai/badge/fatenava/fatenava-mcp)](https://smithery.ai/servers/fatenava/fatenava-mcp)
 
 **MCP 対応の AI エージェントから、四柱推命・紫微斗数・西洋占星術の出生図を直接作成。**
 

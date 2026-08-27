@@ -3,6 +3,7 @@
 **English** | [繁體中文](./README.zh-Hant.md) | [简体中文](./README.zh-Hans.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md)
 
 [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp)
+[![smithery badge](https://smithery.ai/badge/fatenava/fatenava-mcp)](https://smithery.ai/servers/fatenava/fatenava-mcp)
 
 **Cast BaZi, Zi Wei Dou Shu, and Western astrology natal charts from any MCP-capable AI agent.**
 
