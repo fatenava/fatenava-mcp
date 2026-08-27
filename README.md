@@ -52,7 +52,11 @@ args = ["-y", "fatenava-mcp"]
 }
 ```
 
-## Tool: `cast_chart`
+## Tools
+
+- **`cast_chart`** — Cast BaZi (Four Pillars), Zi Wei Dou Shu, and Western astrology natal charts from one birth input. Deterministic computation with True Solar Time correction; supports one-line multilingual birth text or structured fields.
+
+### `cast_chart`
 
 Two ways to describe the birth — pick one:
 
