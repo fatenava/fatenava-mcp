@@ -17,7 +17,7 @@ import { z } from 'zod';
 
 const API_BASE = process.env.FATENAVA_API_BASE ?? 'https://fatenava.com';
 const COMPUTE_URL = `${API_BASE}/api/chart/compute`;
-const VERSION = '0.1.0';
+const VERSION = '0.1.1';
 
 const SYSTEMS = ['bazi', 'ziwei', 'astro'] as const;
 type System = (typeof SYSTEMS)[number];
