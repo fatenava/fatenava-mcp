@@ -8,7 +8,7 @@
 **让任何支持 MCP 的 AI Agent 直接排出八字、紫微斗数与西洋占星本命盘。**
 
 一个工具、三套确定性排盘引擎、零门槛:无需账号、无需 API key、不存储任何数据。
-由 [FateNava](https://fatenava.com/zh-hans/) 的免费排盘 API 驱动。
+由 [FateNava](https://fatenava.com/zh-hans/?utm_source=fatenava-mcp&utm_medium=readme) 的免费排盘 API 驱动。
 
 ## 功能
 
@@ -20,7 +20,7 @@
 | **紫微斗数** | 十二宫与主星、命宫、四化 |
 | **西洋占星本命盘** | 回归黄道、Placidus 分宫:上升点、行星落座落宫、元素与模式分布 |
 
-盘面数据为**确定性计算,非 AI 生成**——同一份出生资料永远得到同一张盘。解读交给你的 AI Agent(或 [FateNava 的免费解读工具](https://fatenava.com/zh-hans/))。
+盘面数据为**确定性计算,非 AI 生成**——同一份出生资料永远得到同一张盘。解读交给你的 AI Agent(或 [FateNava 的免费解读工具](https://fatenava.com/zh-hans/?utm_source=fatenava-mcp&utm_medium=readme))。
 
 ## 快速开始
 
@@ -100,8 +100,8 @@ args = ["-y", "fatenava-mcp"]
 - **免费且匿名。** 底层端点无需登录、不存储任何数据。
 - **确定性。** 盘面由经过测试的引擎计算,AI 只负责解读。
 - **诚实面对边界。** 时辰不明时优雅降级而非臆造;命盘描述的是倾向与课题,**不是写定的命运**;不提供医疗、法律或投资建议。
-- 概念入门:[八字(四柱)是什么?](https://fatenava.com/zh-hans/articles/what-is-bazi/) · [本命盘是什么?](https://fatenava.com/zh-hans/articles/what-is-a-natal-chart/) · [紫微斗数入门](https://fatenava.com/zh-hans/articles/what-is-ziwei/)
-- 深度报告、双人合盘(八字合婚/占星合盘)与 AI 追问:**[fatenava.com](https://fatenava.com/zh-hans/)**
+- 概念入门:[八字(四柱)是什么?](https://fatenava.com/zh-hans/articles/what-is-bazi/?utm_source=fatenava-mcp&utm_medium=readme) · [本命盘是什么?](https://fatenava.com/zh-hans/articles/what-is-a-natal-chart/?utm_source=fatenava-mcp&utm_medium=readme) · [紫微斗数入门](https://fatenava.com/zh-hans/articles/what-is-ziwei/?utm_source=fatenava-mcp&utm_medium=readme)
+- 深度报告、双人合盘(八字合婚/占星合盘)与 AI 追问:**[fatenava.com](https://fatenava.com/zh-hans/?utm_source=fatenava-mcp&utm_medium=readme)**
 
 ## 开发
 

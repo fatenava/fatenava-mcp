@@ -8,7 +8,7 @@
 **MCP 対応の AI エージェントから、四柱推命・紫微斗数・西洋占星術の出生図を直接作成。**
 
 1 つのツール、3 つの決定論的エンジン、セットアップ不要:アカウント不要・API キー不要・データは一切保存されません。
-[FateNava](https://fatenava.com/ja/) の無料チャート API を利用しています。
+[FateNava](https://fatenava.com/ja/?utm_source=fatenava-mcp&utm_medium=readme) の無料チャート API を利用しています。
 
 ## できること
 
@@ -20,7 +20,7 @@
 | **紫微斗数** | 十二宮と主星、命宮、四化 |
 | **西洋占星術 出生図** | トロピカル方式・Placidus ハウス:上昇点(ASC)、惑星のサイン/ハウス配置、エレメントとモダリティ |
 
-チャートの数値は **AI 生成ではなく決定論的な計算**です——同じ出生情報からは常に同じチャートが得られます。解釈はあなたの AI エージェント(または [FateNava の無料鑑定ツール](https://fatenava.com/ja/))にお任せください。
+チャートの数値は **AI 生成ではなく決定論的な計算**です——同じ出生情報からは常に同じチャートが得られます。解釈はあなたの AI エージェント(または [FateNava の無料鑑定ツール](https://fatenava.com/ja/?utm_source=fatenava-mcp&utm_medium=readme))にお任せください。
 
 ## クイックスタート
 
@@ -100,8 +100,8 @@ args = ["-y", "fatenava-mcp"]
 - **無料・匿名。** ログイン不要、データは保存されません。
 - **決定論的。** チャートはテスト済みエンジンが計算し、AI は解釈のみを担当。
 - **限界に正直。** 出生時刻が不明な場合は推測せず正直に省略します。チャートが描くのは傾向とテーマであり、**決められた運命ではありません**。医療・法律・投資のアドバイスは行いません。
-- 入門記事:[四柱推命(八字)とは?](https://fatenava.com/ja/articles/what-is-bazi/) · [出生図とは?](https://fatenava.com/ja/articles/what-is-a-natal-chart/) · [紫微斗数入門](https://fatenava.com/ja/articles/what-is-ziwei/)
-- 詳細鑑定・相性診断(四柱推命の相性/シナストリー)・AI への追加質問:**[fatenava.com](https://fatenava.com/ja/)**
+- 入門記事:[四柱推命(八字)とは?](https://fatenava.com/ja/articles/what-is-bazi/?utm_source=fatenava-mcp&utm_medium=readme) · [出生図とは?](https://fatenava.com/ja/articles/what-is-a-natal-chart/?utm_source=fatenava-mcp&utm_medium=readme) · [紫微斗数入門](https://fatenava.com/ja/articles/what-is-ziwei/?utm_source=fatenava-mcp&utm_medium=readme)
+- 詳細鑑定・相性診断(四柱推命の相性/シナストリー)・AI への追加質問:**[fatenava.com](https://fatenava.com/ja/?utm_source=fatenava-mcp&utm_medium=readme)**
 
 ## 開発
 

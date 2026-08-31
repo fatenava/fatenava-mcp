@@ -8,7 +8,7 @@
 **MCP를 지원하는 어떤 AI 에이전트에서든 사주(팔자)·자미두수·서양 점성술 출생 차트를 바로 뽑아 보세요.**
 
 하나의 도구, 세 가지 결정론적 엔진, 설정 제로: 계정 불필요, API 키 불필요, 어떤 데이터도 저장하지 않습니다.
-[FateNava](https://fatenava.com/ko/)의 무료 차트 API로 구동됩니다.
+[FateNava](https://fatenava.com/ko/?utm_source=fatenava-mcp&utm_medium=readme)의 무료 차트 API로 구동됩니다.
 
 ## 기능
 
@@ -20,7 +20,7 @@
 | **자미두수** | 십이궁과 주성, 명궁, 사화 |
 | **서양 점성술 출생 차트** | 트로피컬 방식·Placidus 하우스: 상승점(ASC), 행성의 별자리/하우스 배치, 원소와 모달리티 |
 
-차트 수치는 **AI 생성이 아닌 결정론적 계산**입니다——같은 출생 정보는 언제나 같은 차트를 냅니다. 해석은 당신의 AI 에이전트(또는 [FateNava의 무료 풀이 도구](https://fatenava.com/ko/))에 맡기세요.
+차트 수치는 **AI 생성이 아닌 결정론적 계산**입니다——같은 출생 정보는 언제나 같은 차트를 냅니다. 해석은 당신의 AI 에이전트(또는 [FateNava의 무료 풀이 도구](https://fatenava.com/ko/?utm_source=fatenava-mcp&utm_medium=readme))에 맡기세요.
 
 ## 빠른 시작
 
@@ -100,8 +100,8 @@ args = ["-y", "fatenava-mcp"]
 - **무료·익명.** 로그인 불필요, 아무것도 저장하지 않습니다.
 - **결정론적.** 차트는 검증된 엔진이 계산하고 AI는 해석만 담당합니다.
 - **한계에 정직.** 태어난 시각을 모르면 추측하는 대신 정직하게 생략합니다. 차트가 그리는 것은 경향과 과제이지 **정해진 운명이 아닙니다**. 의료·법률·투자 조언은 하지 않습니다.
-- 개념 입문: [사주(팔자)란?](https://fatenava.com/ko/articles/what-is-bazi/) · [출생 차트란?](https://fatenava.com/ko/articles/what-is-a-natal-chart/) · [자미두수 입문](https://fatenava.com/ko/articles/what-is-ziwei/)
-- 심층 리포트·궁합(사주 궁합/시너스트리)·AI 추가 질문: **[fatenava.com](https://fatenava.com/ko/)**
+- 개념 입문: [사주(팔자)란?](https://fatenava.com/ko/articles/what-is-bazi/?utm_source=fatenava-mcp&utm_medium=readme) · [출생 차트란?](https://fatenava.com/ko/articles/what-is-a-natal-chart/?utm_source=fatenava-mcp&utm_medium=readme) · [자미두수 입문](https://fatenava.com/ko/articles/what-is-ziwei/?utm_source=fatenava-mcp&utm_medium=readme)
+- 심층 리포트·궁합(사주 궁합/시너스트리)·AI 추가 질문: **[fatenava.com](https://fatenava.com/ko/?utm_source=fatenava-mcp&utm_medium=readme)**
 
 ## 개발
 

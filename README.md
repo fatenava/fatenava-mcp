@@ -8,7 +8,7 @@
 **Cast BaZi, Zi Wei Dou Shu, and Western astrology natal charts from any MCP-capable AI agent.**
 
 One tool, three deterministic engines, zero setup: no account, no API key, nothing stored.
-Powered by the free chart API of [FateNava](https://fatenava.com).
+Powered by the free chart API of [FateNava](https://fatenava.com?utm_source=fatenava-mcp&utm_medium=readme).
 
 ## What it does
 
@@ -20,7 +20,7 @@ Give it a birth (date, time, place, gender) and it returns structured chart data
 | **Zi Wei Dou Shu 紫微斗數** (Purple Star Astrology) | Twelve palaces with major stars, Life Palace, transformations |
 | **Western natal chart** | Tropical zodiac, Placidus houses: Ascendant, planets by sign/house, elements & modalities |
 
-The numbers are **computed, not AI-generated** — the same birth always produces the same charts. Interpretation is left to your AI agent (or to [FateNava's free reading tools](https://fatenava.com)).
+The numbers are **computed, not AI-generated** — the same birth always produces the same charts. Interpretation is left to your AI agent (or to [FateNava's free reading tools](https://fatenava.com?utm_source=fatenava-mcp&utm_medium=readme)).
 
 ## Quick start
 
@@ -104,8 +104,8 @@ Field names are English; traditional terms (heavenly stems, earthly branches, pa
 - **Free & anonymous.** The underlying endpoint requires no login and stores nothing.
 - **Deterministic.** Charts are calculated by tested engines; the AI layer only interprets.
 - **Honest about limits.** Unknown birth time degrades gracefully instead of inventing an hour. Charts describe tendencies and themes — not fixed fate. Not medical, legal, or financial advice.
-- Learn the concepts: [What is BaZi?](https://fatenava.com/en/articles/what-is-bazi/) · [What is a natal chart?](https://fatenava.com/en/articles/what-is-a-natal-chart/) · [What is Zi Wei Dou Shu?](https://fatenava.com/en/articles/what-is-ziwei/)
-- Full readings, compatibility (synastry / 合婚) and AI Q&A: **[fatenava.com](https://fatenava.com)**
+- Learn the concepts: [What is BaZi?](https://fatenava.com/en/articles/what-is-bazi/?utm_source=fatenava-mcp&utm_medium=readme) · [What is a natal chart?](https://fatenava.com/en/articles/what-is-a-natal-chart/?utm_source=fatenava-mcp&utm_medium=readme) · [What is Zi Wei Dou Shu?](https://fatenava.com/en/articles/what-is-ziwei/?utm_source=fatenava-mcp&utm_medium=readme)
+- Full readings, compatibility (synastry / 合婚) and AI Q&A: **[fatenava.com](https://fatenava.com?utm_source=fatenava-mcp&utm_medium=readme)**
 
 ## Development
 
