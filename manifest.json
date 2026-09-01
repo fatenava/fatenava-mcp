@@ -2,19 +2,19 @@
   "manifest_version": "0.2",
   "name": "fatenava-mcp",
   "display_name": "FateNava MCP",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cast BaZi (Four Pillars), Zi Wei Dou Shu, and Western astrology natal charts — deterministic, free, no account required.",
   "long_description": "All-in-one destiny charting for AI agents: cast BaZi (Four Pillars, 八字/四柱推命/사주), Zi Wei Dou Shu (紫微斗數), and Western astrology natal charts with a single tool. Deterministic engines with True Solar Time correction, multilingual birth input (中文/EN/日本語/한국어), free and anonymous — no account or API key required. Official MCP server by FateNava (fatenava.com).",
   "author": {
     "name": "FateNava",
     "email": "npm@fatenava.com",
-    "url": "https://fatenava.com"
+    "url": "https://fatenava.com?utm_source=fatenava-mcp&utm_medium=smithery"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/fatenava/fatenava-mcp"
   },
-  "homepage": "https://fatenava.com",
+  "homepage": "https://fatenava.com?utm_source=fatenava-mcp&utm_medium=smithery",
   "documentation": "https://github.com/fatenava/fatenava-mcp#readme",
   "license": "MIT",
   "keywords": [

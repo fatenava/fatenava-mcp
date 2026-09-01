@@ -17,7 +17,7 @@ import { z } from 'zod';
 
 const API_BASE = process.env.FATENAVA_API_BASE ?? 'https://fatenava.com';
 const COMPUTE_URL = `${API_BASE}/api/chart/compute`;
-const VERSION = '0.1.1';
+const VERSION = '0.1.2';
 
 const SYSTEMS = ['bazi', 'ziwei', 'astro'] as const;
 type System = (typeof SYSTEMS)[number];
@@ -91,7 +91,7 @@ server.registerTool(
       'Free and anonymous — no account, nothing stored. ' +
       'Input is either a one-line `text` birth description, or structured fields (year/month/day/hour/minute + gender + longitude/latitude + timeZoneId). ' +
       'Returns structured JSON per system: field names in English; traditional terms (stems & branches, palace and star names) in their native Chinese characters — translate them for the user as needed. ' +
-      'The chart data is computed, not AI-generated; interpretation is up to you. Full reading tools at https://fatenava.com',
+      'The chart data is computed, not AI-generated; interpretation is up to you. Full reading tools at https://fatenava.com?utm_source=fatenava-mcp&utm_medium=agent',
     inputSchema: inputShape,
   },
   async (args) => {
@@ -151,7 +151,7 @@ server.registerTool(
       charts,
       _source: {
         provider: 'FateNava',
-        url: 'https://fatenava.com',
+        url: 'https://fatenava.com?utm_source=fatenava-mcp&utm_medium=agent',
         note: 'Deterministic chart computation (not AI-generated). Free full readings and AI interpretation at the website.',
       },
     };

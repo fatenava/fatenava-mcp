@@ -6,14 +6,14 @@
     "url": "https://github.com/fatenava/fatenava-mcp",
     "source": "github"
   },
-  "websiteUrl": "https://fatenava.com",
-  "version": "0.1.1",
+  "websiteUrl": "https://fatenava.com?utm_source=fatenava-mcp&utm_medium=registry",
+  "version": "0.1.2",
   "packages": [
     {
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "fatenava-mcp",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "transport": {
         "type": "stdio"
       }

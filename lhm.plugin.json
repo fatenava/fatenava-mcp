@@ -1,7 +1,7 @@
 {
-  "author": "FateNava (https://fatenava.com)",
+  "author": "FateNava (https://fatenava.com?utm_source=fatenava-mcp&utm_medium=lobehub)",
   "description": "MCP server for casting BaZi (Four Pillars), Zi Wei Dou Shu, and Western astrology natal charts — deterministic, free, no account required. Powered by FateNava.",
-  "homepage": "https://fatenava.com",
+  "homepage": "https://fatenava.com?utm_source=fatenava-mcp&utm_medium=lobehub",
   "identifier": "fatenava-mcp",
   "name": "fatenava-mcp",
   "prompts": [],
@@ -24,7 +24,7 @@
     {
       "name": "cast_chart",
       "title": "Cast destiny charts (BaZi / Zi Wei / Western astrology)",
-      "description": "Cast up to three deterministic destiny charts from one birth: BaZi (Four Pillars, with True Solar Time correction), Zi Wei Dou Shu (Purple Star Astrology), and a Western natal chart (tropical zodiac, Placidus houses). Free and anonymous — no account, nothing stored. Input is either a one-line `text` birth description, or structured fields (year/month/day/hour/minute + gender + longitude/latitude + timeZoneId). Returns structured JSON per system: field names in English; traditional terms (stems & branches, palace and star names) in their native Chinese characters — translate them for the user as needed. The chart data is computed, not AI-generated; interpretation is up to you. Full reading tools at https://fatenava.com",
+      "description": "Cast up to three deterministic destiny charts from one birth: BaZi (Four Pillars, with True Solar Time correction), Zi Wei Dou Shu (Purple Star Astrology), and a Western natal chart (tropical zodiac, Placidus houses). Free and anonymous — no account, nothing stored. Input is either a one-line `text` birth description, or structured fields (year/month/day/hour/minute + gender + longitude/latitude + timeZoneId). Returns structured JSON per system: field names in English; traditional terms (stems & branches, palace and star names) in their native Chinese characters — translate them for the user as needed. The chart data is computed, not AI-generated; interpretation is up to you. Full reading tools at https://fatenava.com?utm_source=fatenava-mcp&utm_medium=agent",
       "inputSchema": {
         "type": "object",
         "properties": {
@@ -109,5 +109,5 @@
       }
     }
   ],
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
